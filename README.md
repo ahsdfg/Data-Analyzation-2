@@ -1,8 +1,10 @@
 # Data-Analyzation-2
-Contents of the book '혼자 공부하는 데이터분석 with 파이썬'.
-The skills handled in the book are elevated from that of previous data-analyzation repository's.
-It deals with library data and touches upon API, web scraping, data preprocessing, summarizing data, data visualization and finally verifying and predicting.
-The contents were all intriguing but some concepts to highlight are:
-- API and Web Scraping: as experience from this book enabled me to make the 'gym-reserver' which is in gym-reserver repository
-- data preprocessing: this book was one of the only sources where I learned proper data preprocessing
-- verifying and predicting: this book introduced many concepts of statistics, which I was originally interested in
+The book "혼자 공부하는 데이터분석 with 파이썬" delves into more advanced skills compared to previous data analysis resource(Data-analyzation repository). It covers a wide range of topics including handling library data, utilizing APIs and web scraping, data preprocessing techniques, summarizing data, data visualization methods, and verifying and predicting outcomes.
+
+Key concepts and highlights from the book include:
+
+1. API and Web Scraping: The book provides practical experience and knowledge in utilizing APIs and web scraping techniques. This knowledge enabled me to develop the 'gym-reserver' project, which is available in the gym-reserver repository.
+2. Data Preprocessing: This book stands out as one of the few sources where I learned proper data preprocessing techniques. It covers essential steps in preparing data for analysis, ensuring accuracy and reliability in subsequent analyses.
+3. Verifying and Predicting: The book introduces various statistical concepts relevant to verifying and predicting outcomes. It enhances understanding in this area, catering to original interests in statistics.
+
+Overall, the book offers comprehensive coverage of advanced data analysis skills and techniques, providing valuable insights and practical knowledge for further exploration in the field.
